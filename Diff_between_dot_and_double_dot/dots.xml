@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <root>
-
     <people>
         <name>Anudeep</name>
         <name>Stanley</name>
         <name>Tree</name>
     </people>
     <profiles>
-        
         <one>Software Engineer</one>
-        
-        
         <two>Data scientist</two>
         <three>XML architect</three>
     </profiles>

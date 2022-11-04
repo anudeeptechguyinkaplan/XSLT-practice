@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="refchoose.xsl" ?>
+<orders>
+    <order>
+        <total>36</total>
+    </order>
+    <order>
+        <lineitem/>
+        <lineitem/>
+        <total>1</total>
+    </order>
+    <order>
+        <lineitem/>
+        <lineitem/>
+        <total>9</total>
+    </order>
+    <order>
+        <lineitem/>
+        <lineitem/>
+        <total>a</total>
+    </order>
+</orders>
